@@ -6,9 +6,7 @@
 
 <br>
 
-# 👋 Welcome to 8awake!
-
-## 🚀 The Digital Consultancy & Marketing Experts
+# The Digital Consultancy & Marketing Experts 🚀
 
 **🍺 Founded in Munich, Partnering with Clients Worldwide.** &nbsp;&nbsp;&nbsp; **🌍 Trusted by Industry Leaders and Governments Worldwide**
 
