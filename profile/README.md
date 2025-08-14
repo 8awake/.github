@@ -6,7 +6,7 @@
 
 <br>
 
-# 👋 Say Hello to 8awake
+# 👋 Welcome to 8awake!
 
 ## 🚀 The Digital Consultancy & Marketing Experts
 
