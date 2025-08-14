@@ -1,7 +1,7 @@
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://assets.8awake.com/logo.png">
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.8awake.com/logo-white.png">
-    <img alt="8awake" src="[8awake](https://assets.8awake.com/logo.png)" width="325">
+    <source media="(prefers-color-scheme: light)" srcset="https://assets.8awake.com/logo-github-black.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.8awake.com/logo-github-white.png">
+    <img alt="8awake" src="[8awake](https://assets.8awake.com/logo-github-black.png)" width="250">
 </picture>
 
 <br>
