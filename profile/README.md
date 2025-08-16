@@ -16,27 +16,27 @@
 
 ##  🎯 Why 8awake is the right partner for your project?
 
-### 💡 **End-to-End Digital**
+### 💡 100% Digital, End-to-End
 
 From strategy to transformation, we guide you through the entire digital lifecycle.
 
-### ⚡ **Accelerated Execution:**
+### ⚡ Accelerated Execution
 
 Robust frameworks that ensure predictable outcomes and a faster time-to-market.
 
-### 🧠 **Data-Driven Innovation:**
+### 🧠 Data-Driven Innovation
 
 Harness the power of Data with AI to unlock insights and optimize performance.
 
-### 🏅 **Capability Building for Sustainable Success:**
+### 🏅 Capability Building for Sustainable Success
 
 We equip your teams with the skills, tools, and frameworks they need.
 
-### 🏛️ **Governance-Driven Technology:**
+### 🏛️ Governance-Driven Technology
 
 Solutions designed to meet strict compliance, privacy, and policy management standards.
 
-## 📚 Publications & Insights:
+## 📚 Publications & Insights
 
 Stay ahead with 8awake’s latest thinking on industry trends:
 
