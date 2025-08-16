@@ -8,7 +8,7 @@
 
 # The Digital Consultancy & Marketing Experts 🚀
 
-**🍺 Founded in Munich, Partnering with Clients Worldwide.** **🌍 Trusted by Industry Leaders and Governments Worldwide**
+**🍺 Founded in Munich, Partnering with Clients Worldwide** **🌍 Trusted by Industry Leaders and Governments Worldwide**
 
 8awake empowers organizations with strategic, innovation-driven technology solutions, designed to deliver measurable impact, strengthen governance, and ensure long-term success.
 
