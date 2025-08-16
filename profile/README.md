@@ -16,7 +16,7 @@
 
 ##  🎯 Why 8awake is the right partner for your project?
 
-### 💡 100% Digital, End-to-End
+### 💡 100% Digital → End-to-End
 
 From strategy to transformation, we guide you through the entire digital lifecycle.
 
